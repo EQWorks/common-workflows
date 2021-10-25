@@ -1,0 +1,7 @@
+name: Chromatic
+author: EQ Works
+description: "Collection of workflows commonly used in @eqworks repos"
+
+runs:
+  main: 'chromatic/chromatic.yml'
+  using: node12
